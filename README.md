@@ -2,9 +2,11 @@
 
 This  file contains  a javascript code that prints out my name, height, and country on the screen.
 
+You can view the github page with this link: https://zika99.github.io/Javascript_Statement/
+
 <!--reference links -->
 
-![Site](https://stackoverflow.com/questions/27885447/javascript-function-priting-my-name-beginner)
-![Site](https://www.youtube.com/watch?v=9_QKssRBlY0)
+(https://stackoverflow.com/questions/27885447/javascript-function-priting-my-name-beginner)
+(https://www.youtube.com/watch?v=9_QKssRBlY0)
 
 
